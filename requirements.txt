@@ -1,0 +1,11 @@
+numpy == 1.17.4
+matplotlib == 3.1.1
+opencv-python == 4.1.2.30
+openslide-python == 1.1.2
+pandas == 1.1.3
+scikit-image == 0.15.0
+scikit-learn == 0.23.2
+tifffile == 2020.7.4
+torch == 1.5.1
+torchvision == 0.6.1
+tqdm == 4.50.2
