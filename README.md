@@ -16,7 +16,7 @@ This repository is for virtual staining (transforming H&E image into CK (cytoker
   + tqdm >= 4.50.2 
 + openslide >= 3.4.1 (https://openslide.org/)
 # Usage
-- -input_path: path for input H&E image (.svs)
+- -input_path: path for input H&E image (.svs). example images in ```data/input```
 - -output_dir: directory for output CK image
 - -model_checkpoint: path for model weight (https://drive.google.com/file/d/1-1TqdXRCApmqjSXXiDNwsMbo4Uz8EITJ/view?usp=sharing) 
 ```
