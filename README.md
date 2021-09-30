@@ -23,7 +23,7 @@ This repository is for virtual staining (transforming H&E image into CK (cytoker
 python -input_path data/input/example.svs -output_dir data/output -model_checkpoint data/checkpoint/model.pth
 ```
 # Example Image
-| Input | Output_CK | Output_Segmentation (Tumor, Stroma) |
+| Input | Output_CK | Output_Segmentation (Tumor(red), Stroma(green)) |
 |---|---|---|
 |![./doc/S15-20845-3P-low_part0_HE.jpg](./doc/S15-20845-3P-low_part0_HE.jpg)|![./doc/S15-20845-3P-low_part0_CK.jpg](./doc/S15-20845-3P-low_part0_CK.jpg)|![./doc/S15-20845-3P-low_part0_ENV.jpg](./doc/S15-20845-3P-low_part0_ENV.jpg)|
 
