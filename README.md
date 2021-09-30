@@ -28,5 +28,5 @@ python -input_path data/input/example.svs -output_dir data/output -model_checkpo
 |![./doc/S15-20845-3P-low_part0_HE.jpg](./doc/S15-20845-3P-low_part0_HE.jpg)|![./doc/S15-20845-3P-low_part0_CK.jpg](./doc/S15-20845-3P-low_part0_CK.jpg)|![./doc/S15-20845-3P-low_part0_ENV.jpg](./doc/S15-20845-3P-low_part0_ENV.jpg)|
 
 # Reference
-comming soon
+Hong, Y., Heo, Y.J., Kim, B. et al. Deep learning-based virtual cytokeratin staining of gastric carcinomas to measure tumor–stroma ratio. Sci Rep 11, 19255 (2021). https://doi.org/10.1038/s41598-021-98857-1
 
