@@ -20,7 +20,7 @@ This repository is for virtual staining (transforming H&E image into CK (cytoker
 - -output_dir: directory for output CK image
 - -model_checkpoint: path for model weight (https://drive.google.com/file/d/1-1TqdXRCApmqjSXXiDNwsMbo4Uz8EITJ/view?usp=sharing) 
 ```
-python -input_path data/input/example.svs -output_dir data/output -model_checkpoint data/checkpoint/model.pth
+python run_ck_virtual_staining.py -input_path data/input/example.svs -output_dir data/output -model_checkpoint data/checkpoint/model.pth
 ```
 # Example Image
 | Input | Output_CK | Output_Segmentation (Tumor(red), Stroma(green)) |
